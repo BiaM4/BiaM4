@@ -10,6 +10,7 @@
   <img align="center" alt="bia-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="bia-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="bia-JS" height="30" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="bia-React" height="30" width="110" src="https://shields.io/badge/react%20Native-gray?logo=react&style=for-the-badge">
 
   </div>
   
