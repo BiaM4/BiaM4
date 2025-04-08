@@ -1,6 +1,6 @@
 ## oiii! Eu sou a Beatriz Marques🙋🏽‍♀️
 
-- 📚 Estudante de analise e desenvolvimento de sistemas 
+- 🎓 Formada em analise e desenvolvimento de sistemas 
  <div>
   <a href="https://github.com/BiaM4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaM4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
