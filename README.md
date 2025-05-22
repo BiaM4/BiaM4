@@ -1,4 +1,4 @@
-## oiii! Eu sou a Beatriz Marques🙋🏽‍♀️
+## Beatriz Marques
 
 - 🎓 Formada em analise e desenvolvimento de sistemas 
  <div>
