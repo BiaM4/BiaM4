@@ -1,8 +1,6 @@
 # Beatriz Marques
 ### 💻 Front-end Developer
 
-🎓 Formada em **Análise e Desenvolvimento de Sistemas**
-
 ---
 
 ### 👩🏻‍💻 Sobre mim
