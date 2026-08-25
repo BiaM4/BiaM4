@@ -22,20 +22,6 @@ Atualmente, estou buscando evoluir cada vez mais como desenvolvedora Front-end, 
   <img align="center" alt="React" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-### 🚀 Projetos
-
-🔹 **Portfólio**
-Meu portfólio pessoal com projetos e informações sobre minha trajetória como desenvolvedora.
-
-🔹 **E-commerce**
-Projeto desenvolvido durante a faculdade, aplicando conceitos de desenvolvimento web e criação de interfaces.
-
-🔹 **Jogo 1**
-Projeto desenvolvido para praticar lógica de programação e interação com o usuário.
-
-🔹 **Jogo 2**
-Projeto desenvolvido para aprimorar conhecimentos em desenvolvimento web.
-
 ### 📫 Contato
 
 <div>
