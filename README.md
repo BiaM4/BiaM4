@@ -2,8 +2,6 @@
 ### 💻 Front-end Developer
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**
-🚀 Focada em **desenvolvimento Front-end**
-🌱 Sempre buscando aprender, criar e evoluir através de novos projetos
 
 ---
 
