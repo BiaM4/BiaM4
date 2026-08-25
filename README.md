@@ -1,7 +1,16 @@
 ## Beatriz Marques
 Front-end Developer
 
-- 🎓 Formada em analise e desenvolvimento de sistemas 
+### 👩🏻‍💻 Sobre mim
+
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atuo na área de tecnologia, com foco em **desenvolvimento Front-end**.
+
+Gosto de transformar ideias em interfaces **funcionais, responsivas e intuitivas**, buscando sempre criar uma boa experiência para o usuário.
+
+Tenho conhecimentos em **HTML, CSS, JavaScript, TypeScript e React**, aplicados em projetos web.
+
+Atualmente, estou buscando evoluir cada vez mais como desenvolvedora Front-end, colocando meus conhecimentos em prática e aprendendo através de novos projetos e desafios.
+
   <div style="display: inline_block"><br>
   <img align="center" alt="bia-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="bia-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
