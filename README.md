@@ -1,4 +1,5 @@
 ## Beatriz Marques
+Front-end Developer
 
 - 🎓 Formada em analise e desenvolvimento de sistemas 
   <div style="display: inline_block"><br>
